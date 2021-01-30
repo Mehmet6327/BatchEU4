@@ -1,2 +1,2 @@
-EU4 seems to be well-prepeared
-for the git class 
+EU4 seems to be well-prepared
+for the git class
